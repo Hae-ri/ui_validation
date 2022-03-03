@@ -37,7 +37,6 @@
 		영문이름 : <input type="text" name="eng_name"><br><br>
 		전화번호 : <input type="text" name="phone_number"><br><br>
 		<input type="submit" value="입력">
-					
 	</form>
 </body>
 </html>
